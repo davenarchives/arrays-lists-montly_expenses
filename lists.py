@@ -37,3 +37,4 @@ monthly_expenses[april_refund] -= 200
 print("\n5. Updated Monthly Expenses after refund:")
 for i in range(len(months)):
     print(f"{months[i]}: Php{monthly_expenses[i]}")
+    
