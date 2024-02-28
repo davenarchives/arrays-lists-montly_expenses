@@ -1,4 +1,4 @@
-# arrays-lists-montly_expenses
+# lists-montly_expenses
 This is a school activity in DSA involving Monthly Expenses related questions
 
 Exercise: Array/Lists Data Structure
