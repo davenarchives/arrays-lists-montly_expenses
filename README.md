@@ -1,5 +1,5 @@
 # arrays-lists-montly_expenses
-This is a school activity in Data Structures involving Monthly Expenses related questions
+This is a school activity in DSA involving Monthly Expenses related questions
 
 Exercise: Array/Lists Data Structure
 Let us say your expense for every month are listed below,
