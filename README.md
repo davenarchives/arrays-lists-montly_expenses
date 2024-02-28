@@ -4,11 +4,11 @@ This is a school activity in DSA involving Monthly Expenses related questions
 Exercise: Array/Lists Data Structure
 Let us say your expense for every month are listed below,
 
-- January - 5200
-- February - 6350
-- March 4600
-- April - 4130
-- May - 3190
+- January - Php 5200
+- February - Php 6350
+- March - Php 4600
+- April - Php 4130
+- May - Php 3190
   
 • Create a list to store these monthly expenses and using that find out:
 1. In Feb, how many pesos you spent extra compare to January?
